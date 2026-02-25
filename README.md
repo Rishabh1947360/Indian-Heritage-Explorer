@@ -1,7 +1,7 @@
 
   # Indian Heritage UI Prototype
 
-  This is a code bundle for Indian Heritage UI Prototype. The original project is available at https://www.figma.com/design/J3CWMNzRUozxbDinpjO9vJ/Indian-Heritage-UI-Prototype.
+ 
 
   ## Running the code
 
